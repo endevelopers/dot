@@ -14,7 +14,7 @@
 #
 
 
-3. Open your terminal Then just run the project!
+2. Open your terminal Then just run the project!
 
     ```bash
 
